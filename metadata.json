@@ -1,0 +1,6 @@
+{
+  "name": "SupportDesk Support Ticketing",
+  "description": "A professional, modern, responsive customer support ticketing platform with clean pastel aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
